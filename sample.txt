@@ -1,0 +1,22 @@
+ This AIHTML code translate the text file with out tags will give you the Rendered HTML. 
+  You can open the sample.txt file and see how the text file used
+ <hr/>
+ For this H1 heading give 1 spaces in txt file 
+  For this H2 heading give 2 spaces in txt file 
+   For this H3 heading give 3 spaces in text file
+    For this H4 heading give 4 spaces in text file 
+     For this H5 heading give 5 spaces in text file
+<hr/>
+   For Un-Order list give 7 spaces and | as separator for more orderlist points
+      Dot First Point|Dot Second Point|Dot Third Point
+<hr/>
+   For Order list give 7 spaces and | as separator for more orderlist points
+       First Point|Second Point|Third Point
+<hr/>
+   For the image give 8 spaces and | as separator example ( http://server_address/image_desination_folder/imageone.jpg|alt content|Long Description|200|150|left )
+        http://localhost/srsnewapp/aihtml/imageone.jpg|alt content|Long Description|200|150|left
+This is the sample image
+
+   For hyperlink text give 9 spaces and | as spearator. <br/>Example ( Prefix Text please follow the link |View Profile|https://github.com/9148884631manju-nath|_blank|classname| Sufix text of this url )
+         Prefix Text please follow the link |View Profile|https://github.com/9148884631manju-nath|_blank|classname| Sufix text of this url
+ <hr/>
